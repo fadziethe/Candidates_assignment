@@ -1,0 +1,2 @@
+The files that are in this repository contain the candidate assignment. The assignment was to create web application that is responsible for scheduling events. The application created is a frontend view of the required application. the backend part was not fully executed.
+to run this application please find, in the repository, a file named index.html. Run this using any browser of your choice and start scheduling your events.
